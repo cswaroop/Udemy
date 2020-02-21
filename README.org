@@ -1,0 +1,80 @@
+* Cloud Computing
+** Cloud Fundamentals  
+** Cloud Development
+** Cloud Certification
+* Design
+** User Experience Design
+** Web Design
+** Mobile Design
+** Graphic Design
+** 3D & Animation
+** Design Tools
+* Development
+** Web Development
+** Mobile Development
+** Database Design & Development
+** Programming Languages
+** Development Tools
+** Software Testing
+* Data Science
+** Analytics
+** Big Data
+** Data Visualization
+** Machine Learning
+** Statistical Analysis
+* Finance & Accounting
+** Accounting
+** Accounting Software
+** Finance Fundamentals
+** Corporate Finance
+** Financial Modeling & Analysis
+** Investing and Trading
+* Human Resources
+** HR Fundamentals
+** Learning & Development
+** Talent Management
+** Compliance
+* IT Operations
+** Database Administration
+** Hardware
+** Network & Security
+** Operating Systems and Servers
+** IT Certifications
+* Marketing
+** Marketing Strategy
+** Digital Marketing
+** Content Marketing
+** Marketing Analytics and Automation
+** Paid Advertizing
+** Search Engine Optimization
+** Social Media Marketing
+** Video & Mobile Marketing
+* Sales
+** Customer Service
+** Sales Skills & Tools
+* Project Management & Operations
+** Agile & Scrum
+** Operations Management
+** Project Management Certifications
+** Project Management Fundamentals
+** Project Management Tools
+* Office Productivity
+** Collaboration
+** Presentations
+** Email & Productivity
+** Presentations
+** Spreadsheets
+** Word Processing
+** Operating Systems
+* Leadership & Management
+** Strategy
+** Communication
+** Management
+** Leadership
+* Personal Development
+** Arts & Creativity
+** Health & Fitness
+** Language Learning
+** Personal Finance
+** Personal Growth
+** Stess Management
